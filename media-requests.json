@@ -1,0 +1,148 @@
+{
+  "media_requests": [
+    {
+      "slot_id": "hero-main",
+      "page": "landing",
+      "section": "hero",
+      "category": "custom",
+      "label": "Hero background image for photography business",
+      "theme": "elegant professional photography studio dark",
+      "query": "professional photography studio dramatic lighting portfolio",
+      "priority": "high",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "about-portrait",
+      "page": "landing",
+      "section": "about",
+      "category": "gallery",
+      "label": "Photographer portrait for about section",
+      "theme": "warm professional portrait photographer at work",
+      "query": "professional photographer portrait with camera studio",
+      "priority": "high",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "portfolio-01",
+      "page": "landing",
+      "section": "portfolio",
+      "category": "gallery",
+      "label": "Wedding photography sample",
+      "theme": "romantic elegant wedding photography",
+      "query": "wedding couple photography elegant ceremony",
+      "priority": "medium",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "portfolio-02",
+      "page": "landing",
+      "section": "portfolio",
+      "category": "gallery",
+      "label": "Family portrait photography sample",
+      "theme": "warm natural family outdoor portrait",
+      "query": "happy family portrait outdoor natural light photography",
+      "priority": "medium",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "portfolio-03",
+      "page": "landing",
+      "section": "portfolio",
+      "category": "gallery",
+      "label": "Product photography sample",
+      "theme": "clean minimalist product photography",
+      "query": "professional product photography studio clean white background",
+      "priority": "medium",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "portfolio-04",
+      "page": "landing",
+      "section": "portfolio",
+      "category": "gallery",
+      "label": "Corporate headshot sample",
+      "theme": "professional corporate portrait business",
+      "query": "corporate headshot professional business portrait studio lighting",
+      "priority": "medium",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "portfolio-05",
+      "page": "landing",
+      "section": "portfolio",
+      "category": "gallery",
+      "label": "Event photography sample",
+      "theme": "vibrant event celebration photography",
+      "query": "event photography celebration party people candid",
+      "priority": "medium",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "service-portrait",
+      "page": "landing",
+      "section": "services",
+      "category": "gallery",
+      "label": "Portrait photography service card image",
+      "theme": "artistic portrait close-up dramatic",
+      "query": "artistic portrait photography close-up dramatic lighting",
+      "priority": "medium",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "service-events",
+      "page": "landing",
+      "section": "services",
+      "category": "gallery",
+      "label": "Events photography service card image",
+      "theme": "dynamic event photography celebration",
+      "query": "event photography coverage professional photographer wedding",
+      "priority": "medium",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "service-commercial",
+      "page": "landing",
+      "section": "services",
+      "category": "gallery",
+      "label": "Commercial photography service card image",
+      "theme": "professional commercial photography workspace",
+      "query": "commercial photography professional product advertising shoot",
+      "priority": "medium",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "contact-location",
+      "page": "landing",
+      "section": "contact",
+      "category": "place",
+      "label": "Photography studio or workspace image",
+      "theme": "inviting creative photography workspace studio",
+      "query": "photography studio workspace creative professional equipment",
+      "priority": "low",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "texture-accent",
+      "page": "landing",
+      "section": "global",
+      "category": "custom",
+      "label": "Abstract texture for visual accents and dividers",
+      "theme": "subtle elegant abstract texture dark",
+      "query": "abstract dark texture elegant photography bokeh background",
+      "priority": "low",
+      "source": "generic",
+      "fallback": "GR-AI"
+    }
+  ]
+}
